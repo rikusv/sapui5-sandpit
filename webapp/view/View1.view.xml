@@ -1,0 +1,11 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="QuickStartApplication.controller.View1" xmlns:sap.ui.core="sap.ui.core" xmlns:sap.ui.layout="sap.ui.layout">
+	<App>
+		<pages>
+			<Page title="Test page">
+			<content>
+			    <Text text="No text specified" maxLines="0" id="__text5"/>
+			</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
